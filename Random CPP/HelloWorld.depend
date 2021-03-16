@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1613476717 source:d:\mostaaa\my study data\2020 sept\codeblocks\c++ practicing files\helloworld\main.cpp
+	<iostream>
+
+1612898375 source:d:\mostaaa\my study data\2020 sept\codeblocks\c++ practicing files\helloworld\userenternumberandprintit.cpp
+	<stdio.h>
+	<iostream>
+
+1612979520 source:d:\mostaaa\my study data\2020 sept\codeblocks\c++ practicing files\helloworld\declare array.cpp
+	<iostream>
+
+1613231559 source:d:\mostaaa\my study data\2020 sept\codeblocks\c++ practicing files\helloworld\compound_block.cpp
+	<iostream>
+
+1613231757 source:d:\mostaaa\my study data\2020 sept\codeblocks\c++ practicing files\helloworld\strings.cpp
+	<iostream>
+	<string>
+
+1613410187 source:d:\mostaaa\my study data\2020 sept\codeblocks\c++ practicing files\helloworld\vectors.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1613475955 source:d:\mostaaa\my study data\2020 sept\codeblocks\c++ practicing files\helloworld\structure & constructors.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1613231559 source:d:\mostaaa\my study data\c++ practicing files\helloworld\compound_block.cpp
+	<iostream>
+
+1612979520 source:d:\mostaaa\my study data\c++ practicing files\helloworld\declare array.cpp
+	<iostream>
+
+1613231757 source:d:\mostaaa\my study data\c++ practicing files\helloworld\strings.cpp
+	<iostream>
+	<string>
+
+1614023509 source:d:\mostaaa\my study data\c++ practicing files\helloworld\structure & constructors.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1612898375 source:d:\mostaaa\my study data\c++ practicing files\helloworld\userenternumberandprintit.cpp
+	<stdio.h>
+	<iostream>
+
+1613410187 source:d:\mostaaa\my study data\c++ practicing files\helloworld\vectors.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1615204129 source:d:\mostaaa\my study data\c++ practicing files\helloworld\main.cpp
+	<iostream>
+
+1614161867 source:d:\mostaaa\my study data\c++ practicing files\helloworld\class1.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1614852712 source:d:\mostaaa\my study data\c++ practicing files\helloworld\initializations.cpp
+	<iostream>
+
+1614852675 source:d:\mostaaa\my study data\c++ practicing files\helloworld\overloadoperator.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1615204401 source:d:\mostaaa\my study data\c++ practicing files\helloworld\constructors.cpp
+	<iostream>
+	<string>
+
